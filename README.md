@@ -1,5 +1,5 @@
 
-## Email via PCF service broker
+## Email using PCF service broker
 
 This project is a client app to send an email (via GMAIL SMTP) using Pivotal Cloud Foundry service borker. 
 
