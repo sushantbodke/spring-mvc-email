@@ -1,0 +1,8 @@
+---
+applications:
+- name: spring-mvc-email
+  memory: 512M
+  instances: 1
+  path: build/libs/spring-mvc-email.jar
+  services:
+    - my-email-service
